@@ -3,6 +3,8 @@
 Web client for h4kscape (RuneScape 2 / 2004Scape). Builds to a static site
 that connects to a remote game server.
 
+Forked from [2004scape/Client2](https://github.com/2004scape/Client2) (Lost City).
+
 The game server lives in a separate repository:
 [h4ks-com/h4kscape-server](https://github.com/h4ks-com/h4kscape-server)
 
@@ -60,3 +62,7 @@ docker build \
 
 The GitHub Actions workflow builds and pushes to Docker Hub on every push to
 `main`. Requires a `DOCKERHUB_TOKEN` repository secret for the `mattfly` account.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Originally by [Lost City / 2004scape](https://github.com/2004scape).
