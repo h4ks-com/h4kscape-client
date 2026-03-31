@@ -1,0 +1,16 @@
+.git
+node_modules
+.idea
+.vscode
+dist
+*.md
+LICENSE
+.husky
+.eslintrc.json
+.eslintignore
+.prettierrc
+jest.config.js
+test
+coverage
+Thumbs.db
+.DS_Store

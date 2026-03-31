@@ -1,0 +1,15 @@
+/node_modules/
+/dist/
+
+/.idea/
+
+bz2.d.ts
+bz2.js
+
+!/test/resources/*
+
+# Keep these tracked — runtime dependencies
+!/public/deps.js
+!/public/*.wasm
+!/public/favicon.ico
+!/public/SCC1_Florestan.sf2

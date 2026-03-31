@@ -1,0 +1,15 @@
+{
+  "name": "2004Scape",
+  "icons": [
+    {
+      "src": "/manifest.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "id": "/",
+  "start_url": ".",
+  "background_color": "#212121",
+  "display": "minimal-ui",
+  "theme_color": "#212121"
+}
