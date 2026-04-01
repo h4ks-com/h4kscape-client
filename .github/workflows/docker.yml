@@ -42,7 +42,7 @@ jobs:
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           build-args: |
-            SERVER_URL=https://scape.t3ks.com
+            SERVER_URL=https://scape.h4ks.com
             OAUTH_ENABLED=true
             OAUTH_LOGTO_ENDPOINT=https://auth.h4ks.com
             OAUTH_APP_ID=bc40c9vfeg5i43m9j8bws
